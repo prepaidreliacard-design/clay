@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"api.usbank.com":"api2.usbank.com"},
+  "Integration": {"portal-workflow-kaleo-designer-web"},
+  {"httpServer.createPortal.CommonAbleForm"},
+}
